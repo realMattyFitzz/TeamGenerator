@@ -1,1 +1,1 @@
-# TeamPasswordGenerator
+# TeamGenerator
