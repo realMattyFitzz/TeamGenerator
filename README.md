@@ -14,3 +14,5 @@ Usage
 Run node server.js in your command line to begin the application. Use arrow keys to navigate menus, and follow prompts on screen to view, add, update, and delete employees, roles, and departments. Select Quit at any time to end the application.
 
 Examples:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67922824/94298257-ab83de00-ff1a-11ea-96d8-b3681a25559a.gif)
