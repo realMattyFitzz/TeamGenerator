@@ -1,9 +1,11 @@
 # TeamGenerator
 
-Description
+Description:
+
 A command-line application that utilized Node and MySQL to manage employees and their roles, departments and salaries.
 
-Installation
+Installation:
+
 Run npm install to install all dependencies (mysql and inquirer)
 Run employees_db.sql in MySQLWorkbench (or other database management software of your choice)
 (Optional) Run db_seeds.sql in MySQLWorkbench to generate some starting values for each table
